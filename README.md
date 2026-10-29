@@ -6,8 +6,6 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Python.<br>🎯 Goals: Fullstack.<br>🎲 Fun fact: Clannad enthusiast.</p>
-
 ###
 
 <h2 align="left">I code with</h2>
