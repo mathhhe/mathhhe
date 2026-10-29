@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-My name is Matheus.<br>-Majoring in Information Systems.<br>-I'm from Brazil.</p>
+<p align="left">-My name is Matheus.<br>-Majoring in Information Systems.</p>
 
 ###
 
